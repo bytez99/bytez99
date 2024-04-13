@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+📚 Languages/skills ...
+- Java
+- C++
+- Python
+- C# ASP.NET
+
 🌱 I’m currently learning ...
 - Next.js
 - Android Java 
