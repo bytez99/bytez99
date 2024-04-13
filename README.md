@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ...
+- Next.js
+- Android Java 
+
 <!--
 **bytez99/bytez99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
